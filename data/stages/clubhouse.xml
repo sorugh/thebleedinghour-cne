@@ -1,0 +1,14 @@
+<stage zoom="0.65" name="clubhouse" folder="stages/clubhouse/" startCamPosX="640" startCamPosY="360">
+	<sprite name="sky" sprite="sky" x="-1000" y="-1000" scroll="1.25"/>
+	<sprite name="mountains" sprite="mountains" x="-1300" y="-300" scrollx="1.7" scrolly="1.9"/>
+	<sprite name="trees" sprite="trees" x="-1000" y="-200" scrollx="1.2" scrolly="1.4"/>
+	<sprite name="clubhouse" sprite="clubhouse" x="800" y="-200" scrollx="1.2" scrolly="-0.02"/>
+	<sprite name="hill2" sprite="hill2" x="700" y="300" scrollx="1.15" scrolly="-0.02"/>
+	<sprite name="hill" sprite="hill" x="-1300" y="200"/>
+
+	<gf x="250" y="0"/>
+	<bf x="800" y="0"/>
+	<dad x="0" y="0"/>
+
+	<sprite name="effect" sprite="effect" x="-1200" y="-800" scrollx="0.5" scrolly="0"/>
+</stage>

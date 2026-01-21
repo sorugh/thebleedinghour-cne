@@ -1,0 +1,7 @@
+<character sprite="markus-evil" icon="markus-evil" x="-90" y="210" camx="-10" camy="40" holdTime="6" color="#ff3300">
+	<anim name="idle" anim="idle" fps="24" x="1" y="0"/>
+	<anim name="singLEFT" anim="left" fps="24" x="170" y="-20"/>
+	<anim name="singDOWN" anim="down" fps="24" x="20" y="-30"/>
+	<anim name="singUP" anim="up" fps="24" x="20" y="80"/>
+	<anim name="singRIGHT" anim="right" fps="24" x="-82" y="-13"/>
+</character>

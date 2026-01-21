@@ -1,0 +1,19 @@
+{
+	"params": [
+		{
+			"name": "Cameras (split by commas)",
+			"type": "String",
+			"defaultValue": "camGame, camHUD"
+		},
+		{
+			"name": "Duration",
+			"type": "Float(0.25, 9999, 0.25, 2)",
+			"defaultValue": "4"
+		},
+		{
+			"name": "Intensity",
+			"type": "String",
+			"defaultValue": "0.01"
+		}
+	]
+}
