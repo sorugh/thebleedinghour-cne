@@ -1,4 +1,4 @@
-# The Bleeding Hour (but on Codename Engine)
+# THE BLEEDING HOUR (but on Codename Engine!!)
 This was tested with experimental builds only as of the moment due to me not really caring about it, however it **SHOULD** work.
 
 But, if you want, they can be downloaded on [Codename Engine's official website](https://codename-engine.com/) under the "Experimental Builds" section (as shown below), just pick the one that matches your platform!
