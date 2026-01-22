@@ -1,10 +1,11 @@
 {
+	"customValues": {},
+	"color": "#561200",
 	"opponentModeAllowed": false,
 	"icon": "markus-evil",
 	"difficulties": [
 		"normal"
 	],
-	"color": "#9271FD",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "Repentance",
