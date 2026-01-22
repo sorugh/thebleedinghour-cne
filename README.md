@@ -1,3 +1,4 @@
+# DISCONTINUED DUE TO ME WORKING ON THE MOD NOW!!
 # THE BLEEDING HOUR (but on Codename Engine!!)
 Tested on the latest stable and unstable engine versions, and it works pretty well!
 But, if you want, unstable versions can be downloaded on [Codename Engine's official website](https://codename-engine.com/) under the "Experimental Builds" section (as shown below), just pick whatever matches your platform!
