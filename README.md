@@ -1,7 +1,6 @@
 # THE BLEEDING HOUR (but on Codename Engine!!)
-This was tested with experimental builds only as of the moment due to me not really caring about it, however it **SHOULD** work.
-
-But, if you want, they can be downloaded on [Codename Engine's official website](https://codename-engine.com/) under the "Experimental Builds" section (as shown below), just pick the one that matches your platform!
+Tested on the latest stable and unstable engine versions, and it works pretty well!
+But, if you want, unstable versions can be downloaded on [Codename Engine's official website](https://codename-engine.com/) under the "Experimental Builds" section (as shown below), just pick whatever matches your platform!
 
 !["Experimental Builds" section on the website](docs/experimental-builds.png)
 
