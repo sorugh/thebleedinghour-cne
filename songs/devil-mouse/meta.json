@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#000000",
+	"opponentModeAllowed": false,
+	"icon": "magrolo",
+	"difficulties": [
+		"normal"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Devil Mouse",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 140
+}

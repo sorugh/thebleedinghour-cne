@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="game-over" icon="bf" color="#31b0d1" x="-720" flipX="true" scale="0.5" isPlayer="true">
+	<anim name="deathConfirm" anim="BF Dead confirm"/>
+	<anim name="deathLoop" anim="gameOver" loop="true" indices="15"/>
+	<anim name="firstDeath" anim="gameover" x="4" y="0" indices="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0..14"/>
+</character>

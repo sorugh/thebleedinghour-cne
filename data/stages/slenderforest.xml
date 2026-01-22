@@ -1,0 +1,7 @@
+<stage zoom="0.6" name="slenderforest" folder="stages/slenderforest/" startCamPosX="640" startCamPosY="360">
+	<sprite name="sky" sprite="ic" x="-700" y="-500" scalex="5.9" scaley="3.5" updateHitbox="true"/>
+
+	<gf x="600" y="0"/>
+	<bf x="1000" y="100" camxoffset="-100" camyoffset="-50"/>
+	<dad x="100" y="100" camxoffset="100" camyoffset="-50"/>
+</stage>

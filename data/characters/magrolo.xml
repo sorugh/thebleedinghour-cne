@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="magrolo" icon="magrolo" color="#861000" y="70" camx="-100">
+	<anim name="singDOWN" anim="down" x="36" y="-2"/>
+	<anim name="singLEFT" anim="left" x="71" y="22"/>
+	<anim name="singRIGHT" anim="right" x="18" y="4"/>
+	<anim name="singUP" anim="up" x="47" y="21"/>
+	<anim name="idle" anim="idle" x="2" y="0" loop="true"/>
+</character>
